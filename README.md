@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ### 📫 Connect with me:
 <a href="https://www.linkedin.com/in/sahil-agarwal-"><img align="left" width="35px" src="https://image.flaticon.com/icons/png/512/61/61109.png" /></a>
-<a href=""><img align="left" width="50px" src="https://i1.wp.com/scrapyardexhibit.org/wp-content/uploads/2019/10/instagram-icon-black-and-white-png-7.png?fit=512%2C512" /></a>
+<a href=""><img align="left" width="50px" src="http://assets.stickpng.com/images/5ecec78673e4440004f09e77.png" /></a>
 <a href=""><img align="left" width="40px" src="https://image.flaticon.com/icons/png/512/25/25231.png" /></a>
 
 
