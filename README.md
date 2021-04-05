@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 <img width="30px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 <img width="30px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
 <img width="30px" src="https://www.automateexcel.com/excel/wp-content/uploads/2018/04/icon-shortcuts-sas.png" />
-PowerBI - https://img.icons8.com/ios/452/power-bi.png
+[<img width="30px" src="https://img.icons8.com/ios/452/power-bi.png" />][PowerBI]
+[PowerBI] : https://img.icons8.com/ios/452/power-bi.png
 Excel - https://img.icons8.com/color/452/microsoft-excel-2019--v1.png
 Selenium - https://miro.medium.com/max/955/1*sw2FPqCFcyPcUO1QGRfJ6w.png
 BeautifulSoup - https://miro.medium.com/max/1091/1*efa8-04c2JqNAiTdeoUMtQ.png
