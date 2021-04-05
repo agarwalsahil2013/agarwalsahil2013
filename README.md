@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" width="30px" src="https://i.pinimg.com/originals/8a/bc/4d/8abc4d98d9df0d8a9caa486fe1aa0ac5.png" />
-<img align = "left" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-<img align="left" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
-<img align="left" width="30px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
-<img align="left" width="30px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
-<img align="left" width="30px" src="https://www.automateexcel.com/excel/wp-content/uploads/2018/04/icon-shortcuts-sas.png" />
-<img align="left" width="30px" src="https://img.icons8.com/ios/452/power-bi.png" />
-<img align="left" width="30px" src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" />
-<img align="left" width="30px" src="https://miro.medium.com/max/955/1*sw2FPqCFcyPcUO1QGRfJ6w.png" />
-<img align="left" width="30px" src="https://www.crummy.com/software/BeautifulSoup/bs3/10.1.jpg" />
-<img align="left" width="30px" src="https://flask.palletsprojects.com/en/master/_static/flask-icon.png" />
-<img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
-<img align="left" width="30px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" />
-<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" />
-<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img align="left" width="40px" src="https://i.pinimg.com/originals/8a/bc/4d/8abc4d98d9df0d8a9caa486fe1aa0ac5.png" />
+<img align = "left" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
+<img align="left" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
+<img align="left" width="40px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
+<img align="left" width="40px" src="https://www.automateexcel.com/excel/wp-content/uploads/2018/04/icon-shortcuts-sas.png" />
+<img align="left" width="40px" src="https://img.icons8.com/ios/452/power-bi.png" />
+<img align="left" width="40px" src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" />
+<img align="left" width="40px" src="https://miro.medium.com/max/955/1*sw2FPqCFcyPcUO1QGRfJ6w.png" />
+<img align="left" width="40px" src="https://www.crummy.com/software/BeautifulSoup/bs3/10.1.jpg" />
+<img align="left" width="40px" src="https://flask.palletsprojects.com/en/master/_static/flask-icon.png" />
+<img align="left" width="40px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
+<img align="left" width="40px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" />
+<img align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" />
+<img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
