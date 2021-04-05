@@ -7,7 +7,6 @@
 - 💬 Ask me about anything. You won't find answer everytime but I can navigate to reach to the solution.
 - ⚡ Fun fact: I like to play with gadgets whether it's remote control car or drone.
 
-<br />
 
 ### 📫 Connect with me:
 <a href="https://www.linkedin.com/in/sahil-agarwal-"><img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/61/61109.png" /></a>
