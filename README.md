@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img width="30px" src="https://cdn.imgbin.com/24/24/12/imgbin-database-icon-database-free-blue-background-2cy8RQMXh0n2WeVbZgtMZyXfv.jpg" />
-<img width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" width="30px" src="https://cdn.imgbin.com/24/24/12/imgbin-database-icon-database-free-blue-background-2cy8RQMXh0n2WeVbZgtMZyXfv.jpg" />
+<img align = "left" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img width="30px" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
 <img width="30px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 <img width="30px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
