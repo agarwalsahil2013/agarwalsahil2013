@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 
 ### 📫 Connect with me:
 <a href="https://www.linkedin.com/in/sahil-agarwal-"><img align="left" width="25px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" /></a>
+<a href="https://www.linkedin.com/in/sahil-agarwal-"><img align="left" width="25px" src="http://assets.stickpng.com/images/5ecec78673e4440004f09e77.png" /></a>
 
 
