@@ -1,6 +1,6 @@
-### Hi there, I am ✨ Sahil Agarwal ✨ 👋
+### Hi there, I am ✨ Sahil Agarwal ✨
 
-## I'm a Data Analyst, Developer, Problem Solver and Teacher!
+## I'm a Data Analyst, Developer, Problem Solver and Teacher! 👋
 - 🔭 I’m currently working on several projects. I hope you'll see an update each week 🤔.
 - 🌱 I’m currently learning everything which required to achieve project goal. 
 - 👯 I’m looking to collaborate on real-world challenges.
