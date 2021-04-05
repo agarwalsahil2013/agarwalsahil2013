@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-Database - <img width="30px" src="https://cdn.imgbin.com/24/24/12/imgbin-database-icon-database-free-blue-background-2cy8RQMXh0n2WeVbZgtMZyXfv.jpg" />
-Python - https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png
-PostgreSQl - https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png
-MySQL - https://www.mysql.com/common/logos/logo-mysql-170x115.png
-Tableau - https://cdn.worldvectorlogo.com/logos/tableau-software.svg
-SAS - https://www.automateexcel.com/excel/wp-content/uploads/2018/04/icon-shortcuts-sas.png
+<img width="30px" src="https://cdn.imgbin.com/24/24/12/imgbin-database-icon-database-free-blue-background-2cy8RQMXh0n2WeVbZgtMZyXfv.jpg" />
+<img width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img width="30px" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
+<img width="30px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
+<img width="30px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
+<img width="30px" src="https://www.automateexcel.com/excel/wp-content/uploads/2018/04/icon-shortcuts-sas.png" />
 PowerBI - https://img.icons8.com/ios/452/power-bi.png
 Excel - https://img.icons8.com/color/452/microsoft-excel-2019--v1.png
 Selenium - https://miro.medium.com/max/955/1*sw2FPqCFcyPcUO1QGRfJ6w.png
