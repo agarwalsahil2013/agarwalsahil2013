@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to play with gadgets whether it's remote control car or drone. 
 
 ### 📫 Connect with me:
-<a href="https://www.linkedin.com/in/sahil-agarwal-"><img align="left" width="22px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" />]</a>
+<a href="https://www.linkedin.com/in/sahil-agarwal-"><img align="left" width="25px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" /></a>
 
 
