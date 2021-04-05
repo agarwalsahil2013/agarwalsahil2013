@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img align="left" width="30px" src="https://img.icons8.com/ios/452/power-bi.png" />
 <img align="left" width="30px" src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" />
 <img align="left" width="30px" src="https://miro.medium.com/max/955/1*sw2FPqCFcyPcUO1QGRfJ6w.png" />
-<img align="left" width="50px" src="https://miro.medium.com/max/1091/1*efa8-04c2JqNAiTdeoUMtQ.png" />
+<img align="left" width="100px" src="https://miro.medium.com/max/1091/1*efa8-04c2JqNAiTdeoUMtQ.png" />
 <img align="left" width="30px" src="https://flask.palletsprojects.com/en/master/_static/flask-icon.png" />
 <img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
 <img align="left" width="30px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" />
