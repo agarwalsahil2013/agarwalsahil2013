@@ -32,3 +32,8 @@
 <img align="left" width="40px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" />
 <img align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" />
 <img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+
+<br />
+<br />
+
+[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=agarwalsahil2013)](https://github.com/anuraghazra/github-readme-stats)
