@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I like to play with gadgets whether it's remote control car or drone.
 
 ### Fun Projects:
-- [Image Prediction](https://imagepredictiondeploy.herokuapp.com/)
+- :mag_right:[Image Prediction](https://imagepredictiondeploy.herokuapp.com/)
 - [OPT Case Status Check](https://casestatus.herokuapp.com/)
 - [Password Checker](https://github.com/agarwalsahil2013/PasswordChecker.git)
 - [PDF Merger and Watermark Add-on](https://github.com/agarwalsahil2013/PDFMerger-Watermark-add-on.git)
