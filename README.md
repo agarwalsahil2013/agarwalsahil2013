@@ -4,9 +4,15 @@
 - 🔭 I’m currently working on several projects. I hope you'll see an update each week 🤔.
 - 🌱 I’m currently learning everything which required to achieve project goal. 
 - 👯 I’m looking to collaborate on real-world challenges.
-- 💬 Ask me about anything. You won't find answer everytime but I can navigate to reach to the solution.
+- 💬 Ask me about anything: You won't find answer everytime but I can navigate to reach to the solution.
 - ⚡ Fun fact: I like to play with gadgets whether it's remote control car or drone.
 
+### Fun Projects:
+- [Image Prediction]()
+- [OPT Case Status Check]()
+- [Password Checker]()
+- [PDF Merger and Watermark Add-on]()
+- [JPG to PNG Converter]()
 
 ### 📫 Connect with me:
 <a href="https://www.linkedin.com/in/sahil-agarwal-"><img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/61/61109.png" /></a>
