@@ -31,7 +31,6 @@
 <img align="left" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 <img align="left" width="40px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
 <img align="left" width="40px" src="https://www.automateexcel.com/excel/wp-content/uploads/2018/04/icon-shortcuts-sas.png" />
-<img align="left" width="40px" src="https://img.icons8.com/ios/452/power-bi.png" />
 <img align="left" width="40px" src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" />
 <img align="left" width="40px" src="https://miro.medium.com/max/955/1*sw2FPqCFcyPcUO1QGRfJ6w.png" />
 <img align="left" width="40px" src="https://www.crummy.com/software/BeautifulSoup/bs3/10.1.jpg" />
