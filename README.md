@@ -8,11 +8,11 @@
 - ⚡ Fun fact: I like to play with gadgets whether it's remote control car or drone.
 
 ### Fun Projects:
-- [Image Prediction]()
-- [OPT Case Status Check]()
-- [Password Checker]()
-- [PDF Merger and Watermark Add-on]()
-- [JPG to PNG Converter]()
+- [Image Prediction](https://imagepredictiondeploy.herokuapp.com/)
+- [OPT Case Status Check](https://casestatus.herokuapp.com/)
+- [Password Checker](https://github.com/agarwalsahil2013/PasswordChecker.git)
+- [PDF Merger and Watermark Add-on](https://github.com/agarwalsahil2013/PDFMerger-Watermark-add-on.git)
+- [JPG to PNG Converter](https://github.com/agarwalsahil2013/JPGtoPNGConverter.git)
 
 ### 📫 Connect with me:
 <a href="https://www.linkedin.com/in/sahil-agarwal-"><img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/61/61109.png" /></a>
