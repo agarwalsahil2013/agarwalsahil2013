@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/sahil-agarwal-"><img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/61/61109.png" /></a>
 <a href="https://github.com/agarwalsahil2013"><img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" /></a>
 <a href="https://www.instagram.com/agrawalsahil1994/"><img align="left" width="40px" src="https://e7.pngegg.com/pngimages/340/745/png-clipart-computer-icons-white-instagram-icon-text-logo.png" /></a>
-<a href="https://www.facebook.com/agrawalsahil1994/"><img align="left" width="30px" src="https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png" /></a>
+<a href="https://www.facebook.com/agrawalsahil1994/"><img align="left" width="35px" src="https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png" /></a>
 
 
 <br />
