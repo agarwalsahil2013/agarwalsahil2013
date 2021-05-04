@@ -10,9 +10,9 @@
 ### Fun Projects:
 - :mag_right: [Image Prediction](https://imagepredictiondeploy.herokuapp.com/)
 - :satellite: [OPT Case Status Check](https://casestatus.herokuapp.com/)
-- :heavy_check_mark: [Password Checker](https://github.com/agarwalsahil2013/PasswordChecker.git)
-- :page_facing_up: :heavy_plus_sign: :page_facing_up: [PDF Merger and Watermark Add-on](https://github.com/agarwalsahil2013/PDFMerger-Watermark-add-on.git)
-- :camera: [JPG to PNG Converter](https://github.com/agarwalsahil2013/JPGtoPNGConverter.git)
+- :heavy_check_mark: [Password Checker](http://multiplefunc.herokuapp.com/passwordcheck)
+- :page_facing_up: :heavy_plus_sign: :page_facing_up: [PDF Merger and Watermark Add-on](http://multiplefunc.herokuapp.com/pdfmerger)
+- :camera: [JPG to PNG Converter](http://multiplefunc.herokuapp.com/jpg2png)
 
 ### 📫 Connect with me:
 <a href="https://www.linkedin.com/in/sahil-agarwal-"><img align="left" width="30px" src="https://image.flaticon.com/icons/png/512/61/61109.png" /></a>
