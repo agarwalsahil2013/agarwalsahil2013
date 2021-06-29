@@ -34,7 +34,7 @@
 <img align="left" width="40px" src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" />
 <img align="left" width="40px" src="https://miro.medium.com/max/955/1*sw2FPqCFcyPcUO1QGRfJ6w.png" />
 <img align="left" width="40px" src="https://www.crummy.com/software/BeautifulSoup/bs3/10.1.jpg" />
-<img align="left" width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fflask.palletsprojects.com%2Fen%2F1.1.x%2Fquickstart%2F&psig=AOvVaw1pfoaBqjGJGJHD4rtwKfh1&ust=1625077872210000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCODyrfy8vfECFQAAAAAdAAAAABAH" />
+<img align="left" width="40px" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fflask.palletsprojects.com%2Fen%2F1.1.x%2Fquickstart%2F&psig=AOvVaw1pfoaBqjGJGJHD4rtwKfh1&ust=1625077872210000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCODyrfy8vfECFQAAAAAdAAAAABAH" />
 <img align="left" width="40px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
 <img align="left" width="40px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" />
 <img align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" />
